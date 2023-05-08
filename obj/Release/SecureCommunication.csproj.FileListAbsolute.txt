@@ -1,0 +1,11 @@
+d:\users\19021\documents\visual studio 2012\Projects\SecureCommunication\SecureCommunication\bin\Release\SecureCommunication.exe.config
+d:\users\19021\documents\visual studio 2012\Projects\SecureCommunication\SecureCommunication\bin\Release\SecureCommunication.exe
+d:\users\19021\documents\visual studio 2012\Projects\SecureCommunication\SecureCommunication\bin\Release\SecureCommunication.pdb
+d:\users\19021\documents\visual studio 2012\Projects\SecureCommunication\SecureCommunication\obj\Release\SecureCommunication.csprojResolveAssemblyReference.cache
+d:\users\19021\documents\visual studio 2012\Projects\SecureCommunication\SecureCommunication\obj\Release\SecureCommunication.Main.resources
+d:\users\19021\documents\visual studio 2012\Projects\SecureCommunication\SecureCommunication\obj\Release\SecureCommunication.ReceiveMessage.resources
+d:\users\19021\documents\visual studio 2012\Projects\SecureCommunication\SecureCommunication\obj\Release\SecureCommunication.SendMessage.resources
+d:\users\19021\documents\visual studio 2012\Projects\SecureCommunication\SecureCommunication\obj\Release\SecureCommunication.Properties.Resources.resources
+d:\users\19021\documents\visual studio 2012\Projects\SecureCommunication\SecureCommunication\obj\Release\SecureCommunication.csproj.GenerateResource.Cache
+d:\users\19021\documents\visual studio 2012\Projects\SecureCommunication\SecureCommunication\obj\Release\SecureCommunication.exe
+d:\users\19021\documents\visual studio 2012\Projects\SecureCommunication\SecureCommunication\obj\Release\SecureCommunication.pdb
